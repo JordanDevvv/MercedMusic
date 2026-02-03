@@ -1,6 +1,6 @@
 # MercedMusic
 A spotify music application for UC Merced Students allows for students to see what other students are listening too once logged in
-I collaborated on this Merced music web application with two other students, I was focused on backend development.
+I collaborated on this Merced music web application with two other students, I was focused on backend development. If your noticing a lack of commits over time its because my previous github account had been hacked, but the backend it mostly developed by me. This project was saved on my hardrive. 
 
 
 
